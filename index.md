@@ -1,18 +1,20 @@
 # Portfolio
 ---
 ## Dashboard - Looker Studio Project
-**Data: Data Kependudukan Desa Pakisan**
-<br>
+### Data: Data Kependudukan Desa Pakisan
+
 [View in Looker Studio](https://lookerstudio.google.com/reporting/3ceeb544-e9bc-4cbd-992a-d4845337dbd3)
 
 <center><img src="images/pakisan.jpg"/></center>
 
-**Data: COVID-19 Week 5 Global Dataset**
-<br>
+### Data: COVID-19 Week 5 Global Dataset
+
 [View in Looker Studio]([https://lookerstudio.google.com/reporting/3ceeb544-e9bc-4cbd-992a-d4845337dbd3](https://lookerstudio.google.com/reporting/4ff8e5bd-cf9c-4a5c-8073-5335a290a777))
 
 <center><img src="images/covid.jpg"/></center>
+
 ---
+
 ### Detect Non-negative Airline Tweets: BERT for Sentiment Analysis
 
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1f32gj5IYIyFipoINiC8P3DvKat-WWLUK)
