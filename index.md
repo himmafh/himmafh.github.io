@@ -1,14 +1,9 @@
 # Portfolio
 ---
 ## Dashboard - Looker Studio Project
-
-### CS224n: Natural Language Processing with Deep Learning
-
-[![View on Looker Studio](https://www.ads-com.fr/sites/default/files/media/image/2022-12/logo-looker-studio.jpg)](https://lookerstudio.google.com/reporting/3ceeb544-e9bc-4cbd-992a-d4845337dbd3)
-
-**Neural Machine Translation:** An NMT system which translates texts from Spanish to English using a Bidirectional LSTM encoder for the source sentence and a Unidirectional LSTM Decoder with multiplicative attention for the target sentence ([GitHub](https://github.com/chriskhanhtran/CS224n-NLP-Solutions/tree/master/assignments/)).
-
-**Dependency Parsing:** A Neural Transition-Based Dependency Parsing system with one-layer MLP ([GitHub](https://github.com/chriskhanhtran/CS224n-NLP-Assignments/tree/master/assignments/a3)).
+**Data: Data Kependudukan Desa Pakisan**
+<br>
+[View in Looker Studio](https://lookerstudio.google.com/reporting/3ceeb544-e9bc-4cbd-992a-d4845337dbd3)
 
 <center><img src="images/nlp.png"/></center>
 
