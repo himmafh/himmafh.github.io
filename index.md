@@ -129,7 +129,7 @@ The steps that were taken in data cleansing included: <br>
 ---
 ##  GUI Python application for calculating Value at Risk (VaR) for bonds
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/himmafh/himmafh.github.io/blob/master/projects/var.ipnyb)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/himmafh/himmafh.github.io/blob/master/projects/var.ipynb)
 
 <div style="text-align: justify"> Value at Risk (VaR) is a statistical measure that considers the historical volatility of risk factors and the correlations among these risk factors. The parametric approach calculates VaR based on parametric calculations such as the volatility of asset returns and the correlation between assets in the portfolio. One method to calculate VaR for bonds is the variance-covariance method, which assumes that the returns or percentage changes in prices of financial instruments follow a normal distribution.</div>
 
@@ -147,6 +147,5 @@ The steps that were taken in data cleansing included: <br>
 <div style="text-align: justify"> The most popular investment instrument in the capital market are stocks. Investors not only have the potential for return but also the potential for risk of loss. The formation of a stock portfolio is an alternative to minimize risk. The objective of this study is to the volatility of stock returns using the ARIMA-IGARCH approach and form an optimal stock portfolio that minimizes risk using the Mean-Semivariance. 
 
 <br>
-<center><img src="var1.png"/></center>
-<center><img src="var2.png"/></center>
+<center><img src="igarch.png"/></center>
 <br>
