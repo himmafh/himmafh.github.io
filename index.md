@@ -77,7 +77,7 @@
 <div style="text-align: justify">Statistics in data analytics helps make meaningful conclusion from raw and unstructured data. The conclusion that are made is used to helping businesses make future predictions on the basis of past trend. Using Diabetes dataset, statistical values (such as mean, median, mode, etc) and visualization of the dataset will be perfomed to facilitate decision-making.</div>
 
 <center><img src="images/stat.png"/></center>
-<center><img src="images/stat1.png"/></center>
+<center><img src="images/stat2.png"/></center>
 <br>
 
 ### Data Visualization
@@ -93,8 +93,8 @@
 
 <div style="text-align: justify">Data manipulation is the process of organizing data to make it more understandable. Data manipulation usually using Pandas library for join, merge, concat, and append the dataset. Before performing data visualization, data cleansing is first carried out on the dataset.</div>
 
-<center><img src="images/manipulation.png"/></center>
-<center><img src="images/manipulation1.png"/></center>
+<center><img src="images/manip.png"/></center>
+<center><img src="images/manip2.png"/></center>
 <br>
 
 ### Data Cleansing
@@ -117,7 +117,7 @@ The steps that were taken in data cleansing included: <br>
 
 <div style="text-align: justify">Machine learning is a branch of artificial intelligence (AI) and computer science which focuses on the use of data and algorithms to imitate the way that humans learn, gradually improving its accuracy. With the help of data visualization, we can see how the data looks like and what kind of correlation is held by the attributes of data. It is the fastest way to see if the features correspond to the output. </div>
 
-<center><img src="images/machinelearning.png"/></center>
+<center><img src="images/ml.png"/></center>
 
 ---
 ## Model Selection for Loan Classification with Home Credit Default Risk Dataset
@@ -129,13 +129,12 @@ The steps that were taken in data cleansing included: <br>
 ---
 ##  GUI Python application for calculating Value at Risk (VaR) for bonds
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/himmafh/himmafh.github.io/blob/master/projects/var.ipynb)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/himmafh/himmafh.github.io/blob/master/projects/varobligasi.py)
 
 <div style="text-align: justify"> Value at Risk (VaR) is a statistical measure that considers the historical volatility of risk factors and the correlations among these risk factors. The parametric approach calculates VaR based on parametric calculations such as the volatility of asset returns and the correlation between assets in the portfolio. One method to calculate VaR for bonds is the variance-covariance method, which assumes that the returns or percentage changes in prices of financial instruments follow a normal distribution.</div>
 
 <br>
-<center><img src="var1.png"/></center>
-<center><img src="var2.png"/></center>
+<center><img src="gui.png"/></center>
 <br>
 
 ---
