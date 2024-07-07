@@ -5,8 +5,13 @@
 <br>
 [View in Looker Studio](https://lookerstudio.google.com/reporting/3ceeb544-e9bc-4cbd-992a-d4845337dbd3)
 
-<center><img src="images/nlp.png"/></center>
+<center><img src="pakisan.jpg"/></center>
 
+**Data: COVID-19 Week 5 Global Dataset**
+<br>
+[View in Looker Studio]([https://lookerstudio.google.com/reporting/3ceeb544-e9bc-4cbd-992a-d4845337dbd3](https://lookerstudio.google.com/reporting/4ff8e5bd-cf9c-4a5c-8073-5335a290a777))
+
+<center><img src="covid.jpg"/></center>
 ---
 ### Detect Non-negative Airline Tweets: BERT for Sentiment Analysis
 
