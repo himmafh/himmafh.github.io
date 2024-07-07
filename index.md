@@ -118,7 +118,7 @@ The steps that were taken in data cleansing included: <br>
 <div style="text-align: justify">Machine learning is a branch of artificial intelligence (AI) and computer science which focuses on the use of data and algorithms to imitate the way that humans learn, gradually improving its accuracy. With the help of data visualization, we can see how the data looks like and what kind of correlation is held by the attributes of data. It is the fastest way to see if the features correspond to the output. </div>
 
 <center><img src="images/ml.png"/></center>
-
+<br>
 ---
 ## Model Selection for Loan Classification with Home Credit Default Risk Dataset
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1xQTibIinWJTk9M0gZqxKiTSzEK22-eyO?usp=sharing)
@@ -126,6 +126,7 @@ The steps that were taken in data cleansing included: <br>
 <div style="text-align: justify"> Home Credit is a non-bank financial institution focused on providing loans to individuals who may have limited or no credit history. The goal of this project is to determine the appropriate model for accurately and efficiently classifying loans, ensuring high accuracy in credit risk assessment. </div>
 
 <center><img src="images/classification.png"/></center>
+<br>
 ---
 ##  GUI Python application for calculating Value at Risk (VaR) for bonds
 
@@ -146,5 +147,6 @@ The steps that were taken in data cleansing included: <br>
 <div style="text-align: justify"> The most popular investment instrument in the capital market are stocks. Investors not only have the potential for return but also the potential for risk of loss. The formation of a stock portfolio is an alternative to minimize risk. The objective of this study is to the volatility of stock returns using the ARIMA-IGARCH approach and form an optimal stock portfolio that minimizes risk using the Mean-Semivariance. 
 
 <br>
-<center><img src="igarch.png"/></center>
+<center><img src="forecast.png"/></center>
+<center><img src="bobot.png"/></center>
 <br>
