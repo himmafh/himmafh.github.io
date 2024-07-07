@@ -137,7 +137,7 @@ The steps that were taken in data cleansing included: <br>
 <div style="text-align: justify"> Value at Risk (VaR) is a statistical measure that considers the historical volatility of risk factors and the correlations among these risk factors. The parametric approach calculates VaR based on parametric calculations such as the volatility of asset returns and the correlation between assets in the portfolio. One method to calculate VaR for bonds is the variance-covariance method, which assumes that the returns or percentage changes in prices of financial instruments follow a normal distribution.</div>
 
 <br>
-<center><img src="gui.png"/></center>
+<center><img src="images/gui.png"/></center>
 <br>
 
 ---
@@ -148,6 +148,6 @@ The steps that were taken in data cleansing included: <br>
 <div style="text-align: justify"> The most popular investment instrument in the capital market are stocks. Investors not only have the potential for return but also the potential for risk of loss. The formation of a stock portfolio is an alternative to minimize risk. The objective of this study is to the volatility of stock returns using the ARIMA-IGARCH approach and form an optimal stock portfolio that minimizes risk using the Mean-Semivariance. 
 
 <br>
-<center><img src="forecast.png"/></center>
-<center><img src="bobot.png"/></center>
+<center><img src="images/forecast.png"/></center>
+<center><img src="images/bobot.png"/></center>
 <br>
