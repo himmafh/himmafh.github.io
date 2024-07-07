@@ -119,6 +119,7 @@ The steps that were taken in data cleansing included: <br>
 
 <center><img src="images/ml.png"/></center>
 <br>
+
 ---
 ## Model Selection for Loan Classification with Home Credit Default Risk Dataset
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1xQTibIinWJTk9M0gZqxKiTSzEK22-eyO?usp=sharing)
@@ -127,6 +128,7 @@ The steps that were taken in data cleansing included: <br>
 
 <center><img src="images/classification.png"/></center>
 <br>
+
 ---
 ##  GUI Python application for calculating Value at Risk (VaR) for bonds
 
@@ -139,7 +141,6 @@ The steps that were taken in data cleansing included: <br>
 <br>
 
 ---
-
 ##  R Programming for forecasting future stock prices using ARIMA-IGARCH and forming a stock portfolio using Mean-Semivariance 
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/himmafh/himmafh.github.io/blob/master/projects/syntax.R)
